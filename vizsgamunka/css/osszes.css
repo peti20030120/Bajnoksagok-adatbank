@@ -1,0 +1,159 @@
+.kiemeles:hover{
+	background-color: lightgray;
+}
+
+.leiras{
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+.kozep{
+	text-align: center;
+}
+
+.jobb{
+	text-align: right;
+}
+
+.bal{
+	text-align: left;
+}
+
+.menusor{
+	font-style: bold;
+	background-color: gray;
+}
+
+.betumeret2{
+	font-size: 2;
+}
+
+.betumeret4{
+	font-size: 4;
+}
+
+.betumeret6{
+	font-size: 6;
+}
+
+.betumeret8{
+	font-size: 8;
+}
+
+.betumeret10{
+	font-size: 10;
+}
+
+.betumeret12{
+	font-size: 12;
+}
+
+.betumeret14{
+	font-size: 14pt;
+}
+
+.betumeret16{
+	font-size: 16pt;
+}
+
+.betumeret18{
+	font-size: 18pt;
+}
+
+.betumeret20{
+	font-size: 20pt;
+}
+
+.betumeret22{
+	font-size: 22pt;
+}
+
+.betumeret24{
+	font-size: 24pt;
+}
+
+.menu{
+	background-color: black;
+	text-align: center;
+}
+.menu > a{
+	color: white;
+	font-weight: bold;
+}
+
+.menu > a:hover {
+	color: gray;
+	text-decoration: none;
+}
+
+.title {
+	background-color: black;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+
+.meccsekhatterkep{
+	background-image: url(../img/stadion.jpg);
+}
+
+.szurkolohatterkep{
+	background-image: url(../img/szurkolo.jpg)
+}
+
+.magyarvalogatotthatterkep{
+	background-image: url(../img/magyarvalogatott.jpg)
+}
+
+.kepekhez{
+	background-size: cover;
+	background-position: center;
+}
+
+.feherhatter{
+	background-color: rgba(255, 255, 255, 0.6);
+}
+
+.feherbetu{
+	color: white;
+}
+
+.feketebetu{
+	color: black;
+}
+
+.felkover{
+	font-weight: bold;
+}
+
+.linkfekete{
+	color: black;
+}
+
+.linkfeher{
+	color: white;
+}
+
+.szurkerahuzas > a:hover{
+	color: gray;
+	text-decoration: none;
+}
+
+.feherrahuzas > a:hover{
+	color: white;
+	text-decoration: none;
+}
+
+.soronkent{
+	word-wrap: break-word;
+}          
+
+.oldalkitoltese{
+	min-height: 600px;
+}
+
+.vilagoskekhatter{
+	background-color: lightblue;
+}
+
