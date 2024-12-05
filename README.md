@@ -1,7 +1,7 @@
 # Bajnoksagok-adatbank
 
 # Általános tudnivalók a projekt elkészítéséről
-- Ez egy 2018-as vizsgamunkám volt, ekkor 10. osztályos gimnazista voltam. 
+- Ez egy 2018-as vizsgamunkám volt, ekkor 10. osztályos gimnazista voltam. Azóta nem korrigáltam bele, hogy láthassam saját magam programozás terén történő fejlődését, változásait, illetve hogy tanulmányozhassam a projektem hibáit, és hogy tanulhassak belőle.
 - Itt még nem tudtam a github, illetve egyéb tárolók létezéséről, a projektet eddig google drive-ban tároltam.
 - Körülbelül 2-3 hónapomba telt ezt a projektet megcsinálni. 
 - Továbbá nem is tudtam ekkor még visual studio code, illetve egyéb IDEA programok létezéséről sem, ezt a projektet például notepad++ programban írtam.
